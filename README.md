@@ -1,7 +1,8 @@
 # Bike-Sales-Trend-Analysis
 
 Worked on an Excel project called "Bike Sales Trend Analysis" and created an interactive dashboard for it. The objective of this project is to analyze the bike sales data across various regions, occupations, age etc.
-Following steps were performed in this project:
+
+The following steps were performed in this project:
 
 1) data cleaning to remove any duplicates.
 2) created custom columns to extract additional information from the dataset.
@@ -13,5 +14,5 @@ Key Insights:
 2.      A considerable percentage of people use bikes for short-distance travel.
 3.      North American region had a higher proportion of bike purchases compared to the Pacific and Europe.
 4.      Male individuals with a higher average income purchased more bikes compared to females who had a slightly lower average income.
-5.      Professionals had a higher percentage of bike purchases compared to individuals in other occupations.
-6.      People who have larger families with more than 2 children may not prefer to buy bikes as they may need a larger vehicle to accommodate their family.kee
+5.      People who have larger families with more than 2 children may not prefer to buy bikes as they may need a larger vehicle to accommodate their family.kee
+
