@@ -10,9 +10,9 @@ The following steps were performed in this project:
 5) Lastly, I built a dashboard in Excel with slicers, which allows users to interact with the data and view it in different ways.
 
 Key Insights:
-1.      A significant number of Middle Age group individuals purchased more bikes compared to Adolescent and Old people.
-2.      A considerable percentage of people use bikes for short-distance travel.
-3.      North American region had a higher proportion of bike purchases compared to the Pacific and Europe.
-4.      Male individuals with a higher average income purchased more bikes compared to females who had a slightly lower average income.
-5.      People who have larger families with more than 2 children may not prefer to buy bikes as they may need a larger vehicle to accommodate their family.kee
+1. A significant number of Middle Age group individuals purchased more bikes compared to Adolescent and Old people.
+2. A considerable percentage of people use bikes for short-distance travel.
+3. North American region had a higher proportion of bike purchases compared to the Pacific and Europe.
+4. Male individuals with a higher average income purchased more bikes compared to females who had a slightly lower average income.
+5. People who have larger families with more than 2 children may not prefer to buy bikes as they may need a larger vehicle to accommodate their family.kee
 
