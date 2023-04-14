@@ -16,3 +16,4 @@ Key Insights:
 4. Male individuals with a higher average income purchased more bikes compared to females who had a slightly lower average income.
 5. People who have larger families with more than 2 children may not prefer to buy bikes as they may need a larger vehicle to accommodate their family.kee
 
+Final Dashboard
